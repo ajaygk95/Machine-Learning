@@ -27,4 +27,4 @@ To run the adaboost algorithm in erm mode, execute\
 To run adaboost algorithm in kfold mode with validation error v/s erm plot, execute python ad-
 `aboost.py -d path to data -m kfold -t 10 -k 10 -p`
 
-For more details refer [report]()
+For more details refer [report](https://github.com/ajaygk95/Machine-Learning/blob/master/Perceptron%20and%20AdaBoost/CSE512-HW1-Ajay_Gopal_Krishna%20-%20Report_README.pdf)
